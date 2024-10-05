@@ -1,1 +1,1 @@
-console.log(`I coded this ${new Date().getFullYear() - 2024} years ago.`)
+console.log(`This was written ${new Date().getFullYear() - 2024} years ago.`)
